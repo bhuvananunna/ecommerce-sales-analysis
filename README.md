@@ -165,6 +165,3 @@ Technology, the West region and the Consumer segment were important contributors
 
 The combination of Python analysis and Power BI visualization provides a comprehensive view of business performance and supports data-driven decision-making.
 
-Author
-
-Superstore Sales & Profitability Analysis — Week 6 Capstone Project
